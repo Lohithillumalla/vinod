@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: bl ueviolet;
+    display: flex; 
+     justify-content: center; 
+    align-items: center; 
+    height: 100vh;
+    gap: 20px;
+    
+}
+.form{
+    width: 350px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    border-radius: 5px;
+}
+img{
+    width: 50px;
+}
+.field{
+    display: flex;
+    flex-direction: column;
+    width: 300px;margin: 10px;
+}
+.field input{
+    padding: 10px;
+}
+button{
+    background-color: cornflowerblue;
+    width: 300px;
+    border: none;
+    padding: 10px;
+    color: rgb(222, 211, 198);
+}

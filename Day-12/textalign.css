@@ -1,0 +1,46 @@
+ /* h1{
+    text-align: left;
+    /* text-transform: capitalize; */
+    /* text-transform: uppercase; */
+    /* text-transform: lowercase; */
+    /* text-decoration: underline; */
+    /* text-decoration: overline; */
+    /* text-decoration: line-through; */
+    /*text-decoration: underline wavy red;
+    letter-spacing: 20px;
+}
+p{
+    text-align: justify;
+    text-indent: 20px;
+    text-shadow: 0ch;
+    word-spacing: 10px;
+}
+a{
+    text-decoration: none;
+}  */
+  /* h1{
+    font-size: 50px;
+    font-weight: lighter;
+    font-style: oblique;
+    font-family: "Honk", system-ui;
+  }
+  p{
+    font-weight: bold;
+    font-style: italic
+  } */
+h1{
+    font-size: 100px;
+    text-align: center;
+    background-image: linear-gradient(75deg,red,darkblue,lawngreen,purple);
+    background-size: 8000px;
+    background-position: 8000px;
+    /* background-image: url(../../Asset/photo/download.jpeg);
+    background-size: 100%;
+    background-position: center; */
+    color: transparent;
+    -webkit-background-clip: text;
+    transition: all 5s;
+}
+h1:hover{
+    background-position: 0px;
+}

@@ -1,0 +1,16 @@
+div{
+    width: 250px;
+    height: 150px;
+    background-color: red;
+    background-image: url(../../Asset/photo/charminar.jpeg);
+    transition-property:background-color,border-radius,width,height,background-image ;
+    transition-duration: 2s,1s,2s,1s,5s;
+    transition-delay: 0.2s,0.2s,1s,2s;
+}
+div:hover{
+    background-color: violet;
+    background-image: url(../../Asset/photo/charminar.jpeg);
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;           
+}

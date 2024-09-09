@@ -1,0 +1,23 @@
+/* #sib1{
+    background-color: blue;
+    width: 40%;
+    height: 190px;
+}
+#sib2{
+    background-color: black;
+    width: 40%;
+    height: 190px;
+    color: white;
+}
+#sib3{
+    background-color: green;
+    width: 40%;
+    height: 190px;
+}
+#sib4{
+    background-color: orange;
+    width: 40%;
+    height: 190px;
+} */
+#sib3+#sib4{background-color: red;} 
+#sib1~#sib3{background-color: red;}

@@ -1,0 +1,28 @@
+/* #container{
+    width: 300px;
+    height: 300px;
+    /* background-color: rgb(225,0,0); */
+    /* background-color: rgb(166,174,23,0.5); */
+    /* background-color: #afec2e; */
+    /* background-color: #afec2e;
+    background-image: url(../../Asset/photo/araku.jpeg);
+    background-size: 100% 100%; */
+/*     
+    background-image: url(../../Asset/photo/araku.jpeg);
+    background-size: 100% ;
+    background-repeat: no-repeat;
+    background-position: left; */
+
+/* } */ 
+body{
+    width: 100px;
+    height: 500px;
+    /* background-image: url(../../Asset/photo/araku.jpeg);
+    background-size: 100% ;
+    background-repeat: no-repeat;
+    background-position: 260px 160px; */
+    background-image: url(../../Asset/photo/download.jpeg);
+    background-size: 100% 5000%;
+    background-attachment: scroll;
+ 
+}

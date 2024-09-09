@@ -1,0 +1,72 @@
+/* #px{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+}
+#pt{
+    width: 20pt;
+    height: 20pt;
+    background-color: yellow;
+}
+#pc{
+    width: 20pc;
+    height: 20pc;
+    background-color: hotpink;
+}
+#mm{
+    width: 20mm;
+    height: 20mm;
+    background-color: black;
+}
+#cm{
+    width: 20cm;
+    height: 20cm;
+    background-color: green;
+}
+#in{
+    width: 20in;
+    height: 20in;
+    background-color: orangered;
+} */
+/* body{
+    width: 100%;
+    height: 800px;
+}
+#per{
+    width: 20%;
+    height: 20%;
+    background-color: red;
+}
+#view{
+    background-image: url(../../Asset/photo/virat.jpeg);
+    width: 40vw;
+    height: 40vh;
+} */
+/* *{
+    padding: 0px;
+    margin: 0px;
+}
+#per{
+    width: 50%
+}
+#child1{
+    width: 50%;
+    height: 50%;
+    background-color: red;
+}
+#view{
+    width:  50vw;
+    height: 300px;
+    background-color: teal;
+}
+#child2{
+    width: 50vw;
+    height: 50vh;
+    background-color: purple;
+} */
+ h1{
+    font-size: 450%;
+    background-color: blue;
+    font-size: 1em
+    
+ }

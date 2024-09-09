@@ -1,0 +1,31 @@
+h1{
+    background-color: salmon;
+    display: inline;
+    width: 60%;
+    height: 200px;
+}
+p{
+    background-color: yellow;
+    /* height: 300px; */
+    display: inline;
+}
+span{
+    background-color: aqua;
+    width: 300px;
+    height: 300px;
+    display: block;
+
+}
+b{
+    background-color: blueviolet;
+    width: 300px;
+    height: 300px;
+    display: block;
+
+}
+pre{
+    background-color: violet;
+    display: inline-block;
+    height: 120px;
+    width: 60%;
+}

@@ -1,0 +1,30 @@
+/* a:link{
+    color : red ;
+    background-color: black;
+
+}
+a:visited{
+    color:aqua;
+    background-color: blue;
+}
+a:hover{
+    color: lawngreen;
+    background-color: darkgreen;
+}.active{
+    color:chocolate;
+    background-color: darkcyan;
+} */
+ #container{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    background-image: url(../../Asset/photo/virat.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+ }
+#container:hover{
+
+    background-color: lawngreen;
+    border-radius: 100%;
+    background-image: url(../../Asset/photo/download.jpeg);
+}

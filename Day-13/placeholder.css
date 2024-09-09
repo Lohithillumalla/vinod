@@ -1,0 +1,52 @@
+/* input{
+    color:red;
+}
+input::placeholder{
+    color: red;
+    letter-spacing: 0vw;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px black;
+    word-spacing: 0vw;
+    
+/* h1::before{
+    content: "this is why we should eat ";
+    color:blueviolet
+}
+h1::after{
+    content:"🍎"
+} */
+ /* p::selection{
+    background-color: yellow;
+    color: black;
+ } */
+  /* li::marker{
+    content: "⭐";
+  } */
+div{
+    width: 300px;
+    height: 200px;
+    background-color: yellow;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+div::-webkit-scrollbar{
+    background-color: black;
+    width: 20px;
+    border-radius: 10px;
+}
+div::-webkit-scrollbar-thumb{
+    background-color: white;
+    background-size: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+div::first-letter{
+    color: blue;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px lightcoral;
+}
+div::first-line{
+    color: pink;
+    letter-spacing: 1vw;
+    word-spacing: 1vw;
+}
